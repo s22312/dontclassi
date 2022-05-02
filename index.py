@@ -1,4 +1,3 @@
-from wsgiref import headers
 import bs4
 import datetime
 import time
