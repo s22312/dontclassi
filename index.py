@@ -3,7 +3,7 @@ import datetime
 import time
 import json
 import re
-import requests.cookies
+import requests
 from browser import Browser
 
 class Processor:
